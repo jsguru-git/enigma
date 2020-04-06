@@ -1,0 +1,34 @@
+{
+    "components": {
+        "dataset": {    
+            "headerTags": {
+                "privacy": {
+                    "tooltip": "privacy",
+                    "fontAwesomeIcon": "faCircle"
+                },
+                "source": {
+                    "tooltip": "source",
+                    "fontAwesomeIcon": "faEye"
+                },
+                "license": {
+                    "tooltip": "license",
+                    "fontAwesomeIcon": "faBalanceScale"
+                },
+                "downloads": {
+                    "tooltip": "downloads",
+                    "fontAwesomeIcon": "faCloudDownloadAlt"
+                }
+            }
+        },
+        "footer": {
+            "menu": {
+                "footerSecondaryLinks": [
+                    "Privacy Policy",
+                    "Support",
+                    "Terms of Service",
+                    "Community"
+                ]
+            }
+        }
+    }
+}

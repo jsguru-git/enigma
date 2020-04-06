@@ -1,0 +1,13 @@
+{
+    "datasets": [
+        {
+            "name": "canada: consumer price index",
+            "tags": {
+                "privacy": "public",
+                "datatype": "Time series",
+                "source": "Bank of Canada",
+                "license": "MIT"
+            }
+        }
+    ]
+}
